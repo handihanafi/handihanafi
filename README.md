@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @handihanafi
 - 👀 I’m interested in Internet of Things
-- 🌱 I’m currently learning Android Studio
+- 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on Web Developer or Android Studio
 - 📫 How to reach me ...
 
