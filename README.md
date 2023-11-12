@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @handi
 - 👀 I’m interested in Internet of Things
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Python
 <!-- - 💞️ I’m looking to collaborate on Web Developer or Android Studio -->
 <!-- - 📫 How to reach me ... -->
 
